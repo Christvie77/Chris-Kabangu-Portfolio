@@ -49,3 +49,4 @@ My digital portfolio was successfully deployed using GitHub Pages.
 My mock interview video demonstrates my professional interview preparation.
 
 ![Mock Interview Evidence](Evidence/mock-interview-proof.png)
+![Mock Interview Evidence](Evidence/mock-interview-proof1.png)
