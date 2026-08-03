@@ -13,7 +13,7 @@ This portfolio showcases my CV, projects, work readiness training, reflections, 
 
 ## Portfolio Contents
 
-- [My CV](CV.md)
+- [My CV](CV/CV.md)
 
 - [Markdown Reflection](Markdown-Reflection.md)
 
