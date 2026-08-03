@@ -27,3 +27,25 @@ This portfolio showcases my CV, projects, work readiness training, reflections, 
 ## Career Goal
 
 My goal is to become a skilled software developer specialising in application development and cloud technologies.
+# Evidence
+
+
+## GitHub Student Account
+
+My GitHub account was created using my CPUT student email address.
+
+![GitHub Account Evidence](Evidence/github-account.png)
+
+
+## GitHub Pages Deployment
+
+My digital portfolio was successfully deployed using GitHub Pages.
+
+![GitHub Pages Evidence](Evidence/github-pages-proof.png)
+
+
+## Mock Interview Evidence
+
+My mock interview video demonstrates my professional interview preparation.
+
+![Mock Interview Evidence](Evidence/mock-interview-proof.png)
