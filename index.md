@@ -42,7 +42,7 @@ My GitHub account was created using my CPUT student email address.
 My digital portfolio was successfully deployed using GitHub Pages.
 
 ![GitHub Pages Evidence](Evidence/github-pages-proof.png)
-
+![GitHub Pages Evidence](Evidence/github-pages-proof1.png)
 
 ## Mock Interview Evidence
 
