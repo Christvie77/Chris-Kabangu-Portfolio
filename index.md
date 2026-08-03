@@ -15,13 +15,13 @@ This portfolio showcases my CV, projects, work readiness training, reflections, 
 
 - [My CV](CV/CV.md)
 
-- [Markdown Reflection](Markdown-Reflection.md)
+- [Markdown Reflection](Reflection/Markdown-Reflection.md)
 
 - [Mock Interview](Mock-Interview.md)
 
-- [Mock Interview Reflection](Mock-Interview-Reflection.md)
+- [Mock Interview Reflection](Reflection/Mock-Interview-Reflection.md)
 
-- [GitHub Pages Reflection](Github-Pages-Reflection.md)
+- [GitHub Pages Reflection](Reflection/Github-Pages-Reflection.md)
 
 
 ## Career Goal
