@@ -17,7 +17,7 @@ This portfolio showcases my CV, projects, work readiness training, reflections, 
 
 - [Markdown Reflection](Reflection/Markdown-Reflection.md)
 
-- [Mock Interview](Interview/Mock-Interview.md)
+- [Mock Interview](Interview/Mock-Interview-Link.md)
 
 - [Mock Interview Reflection](Reflection/Mock-Interview-Reflection.md)
 
